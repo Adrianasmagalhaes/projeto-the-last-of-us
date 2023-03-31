@@ -10,7 +10,7 @@ Rolagem com botões para trocar a imagem de fundo 🎞
 --- 
 Apresentação
 ---
-<img  src="..//projeto-the-last-of-us/src/imagens/animacao.gif">
+[<img  src="..//projeto-the-last-of-us/src/imagens/animacao.gif">]
 
 
 
